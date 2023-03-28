@@ -4,7 +4,7 @@ Install Required Package/Module :
 <pre>pip install qrcode</pre>
 
 How to run
-<pre>git clone GH0STH4CKER/QR_Code_Generator</pre>
+<pre>git clone https://github.com/GH0STH4CKER/QR_Code_Generator</pre>
 <pre>cd QR_Code_Generator</pre>
 <pre>python QRCODEGenRUN2.py</pre>
 
